@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashish Parmar
 - 👀 I’m interested in ...Anything related to computers and tech
 - 🌱 I’m currently learning ...python from cs50
-- 📫 How to reach me ...Twitter handle: @beastcoder18, Email: ashuparmar2305@gmail.com
+- 📫 How to reach me ...Twitter handle: @beastcoder18 , Email: ashuparmar2305@gmail.com
 - 😄 Pronouns: ...MAN 
 
 <!---
